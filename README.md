@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm **Jagyansu Padhy**, a **Computer Science & Engineering student at NIST** who is just starting out in the world of **Web Development**. I'm passionate about learning how websites are built and how I can create my own in the future.
+Hi! I'm **Narmada Sabat**, a **Computer Science & Engineering student at NIST** who is just starting out in the world of **Web Development**. I'm passionate about learning how websites are built and how I can create my own in the future.
 
 Even though I haven’t done any projects yet, I’m **eager to learn**, **practice regularly**, and grow step by step in this exciting field.
 
@@ -28,8 +28,8 @@ I believe in learning by doing, and I’m excited to start building my first web
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagyansu_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagyansu-padhy-573a1b343)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/stvrlightttx8) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmada-sabat-8689102a6)
 
 ---
 
