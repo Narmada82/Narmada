@@ -1,39 +1,38 @@
 # 💫 About Me:
-Hi! I'm **Narmada Sabat**, a **Computer Science & Engineering student at NIST** who is just starting out in the world of **Web Development**. I'm passionate about learning how websites are built and how I can create my own in the future.
+Hi! I'm **Narmada Sabat**, a **Computer Science & Engineering student at NIST**. I'm currently starting my journey in **Web Development** and excited to learn how the web works!
 
-Even though I haven’t done any projects yet, I’m **eager to learn**, **practice regularly**, and grow step by step in this exciting field.
+I haven't built any big projects yet, but I'm practicing and improving every day. I love turning ideas into websites and look forward to building real things soon!
 
 <br><br> 🔭 I’m currently learning  
-- The basics of **HTML, CSS, and JavaScript**  
-- How to build simple web pages  
-- How to use **Git and GitHub** for version control
+- **HTML, CSS, and JavaScript** basics  
+- How to create simple and responsive web pages  
+- How to use **Git and GitHub** for sharing code
 
 <br> 👥 I’m open to  
-- Connecting with other beginners  
-- Getting involved in **small beginner-friendly collaborations**  
-- Learning from open-source communities
+- Meeting other beginners  
+- Collaborating on small learning-based projects  
+- Exploring open-source step by step
 
 <br> 🤝 I’m looking for help with  
-- Understanding how to **structure websites**  
-- Writing clean code and learning **JavaScript logic**  
-- Getting started with my **first project**
+- Understanding layout and design basics  
+- Writing clean code and learning JavaScript  
+- Hosting my first project on GitHub or Netlify
 
 <br> 💬 Ask me about  
-- My journey as a complete beginner in web development  
-- What I'm currently learning and exploring
+- What I’m learning as a web dev beginner  
+- How I got started and what keeps me motivated
 
 <br> ⚡ **Fun fact:**  
-I believe in learning by doing, and I’m excited to start building my first website soon. Everyone starts somewhere — this is my beginning!
+I believe that consistency beats talent. I code a little every day and enjoy learning something new each time!
 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/stvrlightttx8) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmada-sabat-8689102a6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narmada-sabat)
 
 ---
 
-# 💻 Tech Stack (Still Learning):
+# 💻 Tech Stack (Learning):
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -43,11 +42,11 @@ I believe in learning by doing, and I’m excited to start building my first web
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jagyansu&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jagyansu&theme=blueberry&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Narmada82&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Narmada82&theme=tokyonight&hide_border=false)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Jagyansu&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Narmada82&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly learning, one line of code at a time ✨ -->
+<!-- Proudly building the future, one line of code at a time 💻✨ -->
